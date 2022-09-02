@@ -1,6 +1,6 @@
 ### Q :v:
 
-Name's **Damir** and I'm studying programming.
+Name's **Damir** and I'm learning programming.
 Currently **JavaScript/TS/React** in 
 <a href="https://rs.school"><code><img alt="RS School" height="30px" src="https://rs.school/images/rs_school.svg" /></code></a>
 
