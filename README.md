@@ -1,6 +1,6 @@
 ### Q :v:
 
-Name's **Damir** and I'm learning programming.
+I'm learning programming.
 Currently 
 <a href="https://www.javascript.com"><code><img alt="JavaScript" height="30px" src="https://cdn.svgporn.com/logos/javascript.svg" /></code></a>
 <a href="https://www.typescriptlang.org"><code><img alt="TypeScript" height="30px" src="https://cdn.svgporn.com/logos/typescript-icon.svg" /></code></a>
