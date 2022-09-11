@@ -1,11 +1,11 @@
-### Q :v:
+### <img alt="parot" height="40px" src="./laptop_parrot.gif" />
 
 I'm learning programming.
-Currently 
+Currently
 <a href="https://www.javascript.com"><code><img alt="JavaScript" height="30px" src="https://cdn.svgporn.com/logos/javascript.svg" /></code></a>
 <a href="https://www.typescriptlang.org"><code><img alt="TypeScript" height="30px" src="https://cdn.svgporn.com/logos/typescript-icon.svg" /></code></a>
 <a href="https://www.reactjs.org"><code><img alt="React" height="30px" src="https://cdn.svgporn.com/logos/react.svg" /></code></a>
-**in** 
+**in**
 <a href="https://rs.school"><code><img alt="RS School" height="30px" src="https://rs.school/images/rs_school.svg" /></code></a>
 
 #### :triangular_flag_on_post: Have basic knowledge of:
