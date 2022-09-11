@@ -1,4 +1,4 @@
-## ![parrot](./laptop_parrot.gif)
+![parrot](./laptop_parrot.gif)
 
 I'm learning programming.
 Currently
